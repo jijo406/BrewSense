@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Brew Sense</string>
+
+    <string name="Update">Update</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_led_control">Brew Sense</string>
+    <string name="link"> Brew </string>
+
+</resources>
